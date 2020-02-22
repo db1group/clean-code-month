@@ -1,6 +1,6 @@
 # Clean Code Month
 
-No Mês de Março de 2020, na [DB1 Group](https://www.db1group.com/), aconteceu o **Clean Code Month**, um mês inteiro de Lithing Talks sobre código limpo. Foram um total de 13 palestras ministradas por colaboradores do grupo.
+No Mês de Março de 2020, na <a href="https://www.db1group.com/" target="_blank">DB1 Group</a>, aconteceu o **Clean Code Month**, um mês inteiro de Lithing Talks sobre código limpo. Foram um total de 13 palestras ministradas por colaboradores do grupo.
 
 # Talks
 
@@ -8,7 +8,7 @@ No Mês de Março de 2020, na [DB1 Group](https://www.db1group.com/), aconteceu 
 
     Uma breve descrição aqui..
 
-Palestrante: [Francisco Thiago de Almeida](linkedin.com/in/ftathiago)
+Palestrante: [Francisco Thiago de Almeida](https://www.linkedin.com/in/ftathiago)
 
 Links:
   - [youtube]()
@@ -18,7 +18,7 @@ Links:
 
     Uma breve descrição aqui..
 
-Palestrante: [Maykon Luís Capellari](linkedin.com/in/maykoncapellari)  
+Palestrante: [Maykon Luís Capellari](https://www.linkedin.com/in/maykoncapellari)  
 
 Links:
   - [youtube]()
@@ -28,7 +28,7 @@ Links:
 
     Uma breve descrição aqui..
 
-Palestrante: [André Luis Celestino](linkedin.com/in/andrecelestino)  
+Palestrante: [André Luis Celestino](https://www.linkedin.com/in/andrecelestino)  
 
 Links:
   - [youtube]()
@@ -38,7 +38,7 @@ Links:
 
     Uma breve descrição aqui..
 
-Palestrante: [Leonardo Fontinhas](linkedin.com/in/leonardo-f-189465138)  
+Palestrante: [Leonardo Fontinhas](https://www.linkedin.com/in/leonardo-f-189465138)  
 
 Links:
   - [youtube]()
@@ -119,8 +119,7 @@ Links:
 
     Uma breve descrição aqui..
 
-Palestrante: [Luis Gustavo de Carvalho Uzai
-](https://www.linkedin.com/in/lguzai/)  
+Palestrante: [Luis Gustavo de Carvalho Uzai](https://www.linkedin.com/in/lguzai/)  
 
 Links:
   - [youtube]()
