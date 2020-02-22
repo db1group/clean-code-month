@@ -54,7 +54,7 @@ Links:
   - [youtube]()
   - [slides]()
 
-## Altieres - Boas práticas de Código Sujo
+## Boas práticas de Código Sujo
 
     Uma breve descrição aqui..
 
